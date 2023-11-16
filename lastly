@@ -1,0 +1,1 @@
+This script authenticates the user, obtains an access token, and then lists the files in the root of their OneDrive. Depending on your needs, you can expand this to include uploading, downloading, or managing files further.
